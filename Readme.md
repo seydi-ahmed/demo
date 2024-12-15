@@ -9,6 +9,9 @@
 ## Utilisez Spring Data pour interagir avec vos bases de données
 ```https://openclassrooms.com/en/courses/6982461-utilisez-spring-data-pour-interagir-avec-vos-bases-de-donnees```
 
+## Apprendre
+l'objectif est d'apprendre le spring en ayant déja des bases solides en java
+
 ## Développeur:
 - git: mouhameddiouf
 - email: seydiahmedelcheikh@gmail.com
